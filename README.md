@@ -48,7 +48,7 @@ The notes are organized sequentially, moving from networking basics to complex d
 
 System-Design/
 <br>│
-<br>├── **[PHASE 1 - FOUNDATIONAL CONCEPTS](./1.%20Internet%20&%20Networking%20Basics)**
+<br>├── **[PHASE 1 - FOUNDATIONAL CONCEPTS](PHASE%201%20—%20Foundational%20Concepts)**
 <br>│&nbsp;&nbsp;&nbsp;├── [How DNS works.md](./1.%20Internet%20&%20Networking%20Basics/How%20DNS%20works.md)
 <br>│&nbsp;&nbsp;&nbsp;├── [HTTP vs HTTPS.md](./1.%20Internet%20&%20Networking%20Basics/HTTP%20vs%20HTTPS.md)
 <br>│&nbsp;&nbsp;&nbsp;└── [TCP UDP Handshake.md](./1.%20Internet%20&%20Networking%20Basics/TCP_UDP_Handshake.md)
