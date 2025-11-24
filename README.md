@@ -71,6 +71,8 @@ System-Design/
 │
 └── 📜 Resources.md
 
+```
+
 🤝 Contributions
 This is a personal learning project, but feel free to open issues or suggest improvements.
 
