@@ -1,4 +1,4 @@
-# System-Design
+
 <div align="center">
 
 # 🧠 System Design Notes
@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Architecture-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/github/last-commit/dnsh-1inn/system-design-notes?style=for-the-badge" />
 
 ---
 
@@ -46,32 +45,26 @@ Trade-offs → bottlenecks → scaling strategies.
 
 The notes are organized sequentially, moving from networking basics to complex distributed system architectures.
 
-```text
-System-Design/
-│
-├── ✅ 1. Internet & Networking Basics/
-│   ├── How DNS works.md
-│   ├── HTTP vs HTTPS.md
-│   └── TCP_UDP_Handshake.md
-│
-├── 🗄️ 2. Databases & Storage/
-│   ├── SQL vs NoSQL.md
-│   ├── Database Sharding & Partitioning.md
-│   └── CAP Theorem.md
-│
-├── ⚖️ 3. Distributed Concepts/
-│   ├── Load Balancing.md
-│   ├── Consistent Hashing.md
-│   └── Caching Strategies.md
-│
-├── 🏗️ 4. System Design Case Studies/
-│   ├── Design WhatsApp.md
-│   ├── Design URL Shortener.md
-│   └── Design Instagram Feed.md
-│
-└── 📜 Resources.md
 
-```
+System-Design/
+<br>│
+<br>├── **[✅ 1. Internet & Networking Basics](./1.%20Internet%20&%20Networking%20Basics)**
+<br>│&nbsp;&nbsp;&nbsp;├── [How DNS works.md](./1.%20Internet%20&%20Networking%20Basics/How%20DNS%20works.md)
+<br>│&nbsp;&nbsp;&nbsp;├── [HTTP vs HTTPS.md](./1.%20Internet%20&%20Networking%20Basics/HTTP%20vs%20HTTPS.md)
+<br>│&nbsp;&nbsp;&nbsp;└── [TCP UDP Handshake.md](./1.%20Internet%20&%20Networking%20Basics/TCP_UDP_Handshake.md)
+<br>│
+<br>├── **[🗄️ 2. Databases & Storage](./2.%20Databases%20&%20Storage)**
+<br>│&nbsp;&nbsp;&nbsp;├── [SQL vs NoSQL.md](./2.%20Databases%20&%20Storage/SQL%20vs%20NoSQL.md)
+<br>│&nbsp;&nbsp;&nbsp;├── [Sharding & Partitioning.md](./2.%20Databases%20&%20Storage/Sharding%20&%20Partitioning.md)
+<br>│&nbsp;&nbsp;&nbsp;└── [CAP Theorem.md](./2.%20Databases%20&%20Storage/CAP%20Theorem.md)
+<br>│
+<br>├── **[⚖️ 3. Distributed Concepts](./3.%20Distributed%20Concepts)**
+<br>│&nbsp;&nbsp;&nbsp;├── [Load Balancing.md](./3.%20Distributed%20Concepts/Load%20Balancing.md)
+<br>│&nbsp;&nbsp;&nbsp;└── [Consistent Hashing.md](./3.%20Distributed%20Concepts/Consistent%20Hashing.md)
+<br>│
+<br>└── **[📜 Resources](./Resources.md)**
+
+
 
 🤝 Contributions
 This is a personal learning project, but feel free to open issues or suggest improvements.
