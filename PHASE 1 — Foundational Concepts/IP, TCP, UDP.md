@@ -35,3 +35,11 @@ UDP is used when speed is the *only* thing that matters (Video streaming, Online
     2. **No Regrets:** If a packet gets lost or arrives broken? Too bad. UDP doesn't care and doesn't resend it. It just keeps moving to the next packet.
 - **Why use it?** In a live video call, if a frame from 2 seconds ago got lost, there is no point in resending it now. The conversation has already moved on. You want the *new* data, not the old data.
 - **Analogy:** **Shooting a T-Shirt Cannon into a crowd.** You are firing shirts as fast as possible. Some people will catch them, some will drop them, but you aren't going to stop to check.
+
+| **Feature** | **IP** | **TCP** | **UDP** |
+| --- | --- | --- | --- |
+| **Role** | The Address (Where) | The Transporter (How) | The Transporter (How) |
+| **Analogy** | House Number | Certified Mail (Signature Required) | T-Shirt Cannon (Fire & Forget) |
+| **Reliability** | N/A | **High** (Guarantees delivery) | **Low** (No guarantee) |
+| **Speed** | N/A | Slower (checks for errors) | Blazing Fast |
+| **Used For** | Routing | Web browsing, Email, Banking | Gaming, Zoom, Live Streaming |
