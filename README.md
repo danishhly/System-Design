@@ -45,16 +45,13 @@ Trade-offs → bottlenecks → scaling strategies.
 
 The notes are organized sequentially, moving from networking basics to complex distributed system architectures.
 
-
-System-Design/
-<br>│
-<br>├── **[PHASE 1 - FOUNDATIONAL CONCEPTS](PHASE%201%20—%20Foundational%20Concepts)**
-<br>│&nbsp;&nbsp;&nbsp;├── [How DNS works.md](./1.%20Internet%20&%20Networking%20Basics/How%20DNS%20works.md)
-<br>│&nbsp;&nbsp;&nbsp;├── [HTTP vs HTTPS.md](./1.%20Internet%20&%20Networking%20Basics/HTTP%20vs%20HTTPS.md)
-<br>│&nbsp;&nbsp;&nbsp;└── [TCP UDP Handshake.md](./1.%20Internet%20&%20Networking%20Basics/TCP_UDP_Handshake.md)
-<br>│
-
-
+📂 **[PHASE 1 — Foundational Concepts](./PHASE%201%20—%20Foundational%20Concepts)**
+<br>&nbsp;&nbsp;&nbsp;└── 📂 **[✅ 1. Internet & Networking Basics](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics)**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [CDNs.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/CDNs.md)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [How DNS works.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/How%20DNS%20works.md)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [IP, TCP, UDP.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/IP,%20TCP,%20UDP.md)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Latency vs Throughput.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Latency%20vs%20Throughput.md)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 [Load balancers (L4 vs L7).md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Load%20balancers%20(L4%20vs%20L7).md)
 
 🤝 Contributions
 This is a personal learning project, but feel free to open issues or suggest improvements.
