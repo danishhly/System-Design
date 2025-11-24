@@ -52,6 +52,7 @@ The notes are organized sequentially, moving from networking basics to complex d
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [IP, TCP, UDP.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/IP,%20TCP,%20UDP.md)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Latency vs Throughput.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Latency%20vs%20Throughput.md)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 [Load balancers (L4 vs L7).md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Load%20balancers%20(L4%20vs%20L7).md)
+<br>&nbsp;&nbsp;&nbsp;└── 📂 **[✅ 2. Client–Server Architecture](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics)**
 
 🤝 Contributions
 This is a personal learning project, but feel free to open issues or suggest improvements.
