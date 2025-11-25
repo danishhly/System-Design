@@ -74,11 +74,12 @@ The notes are organized sequentially, moving from basics to advanced architectur
 # 🗂️ **Repository Structure**
 
 The notes are organized sequentially, moving from basics to advanced architecture.
-
+```
 system-design/
 ├── 📂 [PHASE 1 — Foundational Concepts](./PHASE%201%20—%20Foundational%20Concepts/)
 └── 📂 [PHASE 2 — Client–Server Architecture](./PHASE%202%20—%20Client–Server%20Architecture/)
-
+└── 📂 [PHASE 3 — Client–Server Architecture](./PHASE%202%20—%20Client–Server%20Architecture/)
+```
 
 # 🎯 **Who This Repo Is For**
 - Students learning backend  
