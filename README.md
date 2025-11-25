@@ -66,7 +66,7 @@ Perfect for students following a multi-phase roadmap.
 - 🔹 Database Design  
 - 🔹 Microservices & Event-Driven Systems  
 
----
+
 
 # 🗂️ **Repository Structure**
 
@@ -74,7 +74,7 @@ The notes are organized sequentially, moving from basics to advanced architectur
 # 🗂️ **Repository Structure**
 
 The notes are organized sequentially, moving from basics to advanced architecture.
-
+```
 system-design/
 │
 ├── 📘 **[PHASE 1 — Foundational Concepts/](./PHASE%201%20—%20Foundational%20Concepts/)**  
@@ -87,100 +87,7 @@ system-design/
 │
 └── 📄 README.md
 
-yaml
-Copy code
-
-### 📁 **Quick Links**
-
-
----
-
-# 🧭 **How to Study This Project (2026 Efficient Method)**
-
-This study method is built for **deep understanding**, not just memorizing definitions.
-
----
-
-## ⭐ **STEP 1 — Follow the Phases in Order**
-Do NOT jump directly to WhatsApp or Instagram architecture.
-
-Start with:
-1. Networking basics  
-2. Client–server  
-3. Databases  
-4. Scalability  
-5. Distributed systems  
-
-This builds a strong mental model.
-
----
-
-## ⭐ **STEP 2 — Study One Concept Per Day (15–25 minutes)**
-Examples:
-- Day 1 → DNS  
-- Day 2 → TCP/UDP  
-- Day 3 → Load balancers  
-- Day 4 → API Gateways  
-- Day 5 → Indexing  
-
-Small chunks → long-term retention.
-
----
-
-## ⭐ **STEP 3 — Draw Every Concept**
-System design is **visual thinking**.
-
-For each topic, draw:
-- Request flow  
-- Component diagram  
-- Data flow  
-
-Drawing → Understanding → Memory
-
----
-
-## ⭐ **STEP 4 — Apply Every Concept to a Real App**
-Ask:
-- “How does DNS work for Instagram?”  
-- “Why does WhatsApp need asynchronous messaging?”  
-- “Why does Netflix need CDNs?”  
-
-Application builds intuition.
-
----
-
-## ⭐ **STEP 5 — Weekly Review (Sunday Routine)**
-Every Sunday:
-- Review 5 topics (10 minutes)  
-- Add 1 diagram  
-- Refactor one markdown  
-- Read one real-world architecture  
-
-Weekly repetition = mastery.
-
----
-
-## ⭐ **STEP 6 — Build Architecture Notes Yourself**
-After Phase 2:
-- Write “How Instagram feed works”  
-- Write “How WhatsApp message delivery works”  
-
-Creating your own writing is the highest form of learning.
-
----
-
-## ⭐ **STEP 7 — Explain Out Loud**
-Practice explaining a topic as if teaching someone.
-
-This builds:
-- clarity  
-- articulation  
-- structure  
-- confidence  
-
-Perfect for interviews.
-
----
+```
 
 # 🎯 **Who This Repo Is For**
 - Students learning backend  
