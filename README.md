@@ -53,6 +53,10 @@ The notes are organized sequentially, moving from networking basics to complex d
 <br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Latency vs Throughput.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Latency%20vs%20Throughput.md)
 <br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 [Load balancers (L4 vs L7).md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Load%20balancers%20(L4%20vs%20L7).md)
 <br>&nbsp;&nbsp;&nbsp;└── 📂 **[✅ 2. Client–Server Architecture](./PHASE%201%20—%20Foundational%20Concepts/✅%202.%20Client–Server%20Architecture)**
+<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Monolith vs microservices.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/CDNs.md)
+<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Synchronous vs asynchronous communication.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/How%20DNS%20works.md)
+<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Rate limiting.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/IP,%20TCP,%20UDP.md)
+<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [API gateways.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Latency%20vs%20Throughput.md)
 
 🤝 Contributions
 This is a personal learning project, but feel free to open issues or suggest improvements.
