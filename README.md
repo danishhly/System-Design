@@ -47,7 +47,7 @@ The notes are organized sequentially, moving from networking basics to complex d
 
 📦 **system-design/**
 │
-├── 📘 [PHASE 1 — Foundational Concepts](./phase-1-foundations/)
+├── 📘 [PHASE 1 — Foundational Concepts](./PHASE%201%20—%20Foundational%20Concepts/)
 ├── 🧩 [phase-2-client-server](./phase-2-client-server/)
 │
 ├── 🏗️ [architectures](./architectures/)
