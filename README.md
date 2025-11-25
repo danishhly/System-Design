@@ -45,18 +45,16 @@ Trade-offs → bottlenecks → scaling strategies.
 
 The notes are organized sequentially, moving from networking basics to complex distributed system architectures.
 
-📂 **[PHASE 1 — Foundational Concepts](./PHASE%201%20—%20Foundational%20Concepts)**
-<br>&nbsp;&nbsp;&nbsp;├── 📂 **[✅ 1. Internet & Networking Basics](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics)**
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [CDNs.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/CDNs.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [How DNS works.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/How%20DNS%20works.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [IP, TCP, UDP.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/IP,%20TCP,%20UDP.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Latency vs Throughput.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Latency%20vs%20Throughput.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 [Load balancers (L4 vs L7).md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Load%20balancers%20(L4%20vs%20L7).md)
-<br>&nbsp;&nbsp;&nbsp;└── 📂 **[✅ 2. Client–Server Architecture](./PHASE%201%20—%20Foundational%20Concepts/✅%202.%20Client–Server%20Architecture)**
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Monolith vs microservices.md](./PHASE%201%20—%20Foundational%20Concepts/✅%202.%20Client–Server%20Architecture/Monolith%20vs%20microservices.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Synchronous vs asynchronous communication.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/How%20DNS%20works.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [Rate limiting.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/IP,%20TCP,%20UDP.md)
-<br>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 [API gateways.md](./PHASE%201%20—%20Foundational%20Concepts/✅%201.%20Internet%20%26%20Networking%20Basics/Latency%20vs%20Throughput.md)
+📦 **system-design/**
+│
+├── 📘 [PHASE 1 — Foundational Concepts](./phase-1-foundations/)
+├── 🧩 [phase-2-client-server](./phase-2-client-server/)
+│
+├── 🏗️ [architectures](./architectures/)
+├── 🖼️ [diagrams](./diagrams/)
+│
+└── 📄 [README.md](./README.md)
+
 
 🤝 Contributions
 This is a personal learning project, but feel free to open issues or suggest improvements.
