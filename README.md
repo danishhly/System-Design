@@ -77,7 +77,7 @@ The notes are organized sequentially, moving from basics to advanced architectur
 
 system-design/  
 ├── 📂 [PHASE 1 — Foundational Concepts](./PHASE%201%20—%20Foundational%20Concepts/)  
-├── 📂 [PHASE 2 — Client–Server Architecture](./PHASE%202%20—%20Client–Server%20Architecture/)  
+├── 📂 [PHASE 2 — Core System Design](./PHASE%202%20—%20Client–Server%20Architecture/)  
 └── 📂 [PHASE 3 — Databases](./PHASE%203%20—%20Databases/)  
 
 
